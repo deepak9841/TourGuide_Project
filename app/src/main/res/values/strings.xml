@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- Text for categories on main page -->
+    <string name="category_historic">Historic Sites</string>
+    <string name="category_natural">Natural Sites</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_mountains">Mountains</string>
+
+    <!-- Text for titles on list items -->
+    <string name="title_kathmandu">Kathmandu Durbar Square</string>
+    <string name="title_bhaktapur">Bhaktapur Durbar Square</string>
+    <string name="title_chitawan">Chitawan National Park</string>
+    <string name="title_annapurna_s">Annapurna Sanctuary</string>
+    <string name="title_hotelEverest">Hotel Everest</string>
+    <string name="title_hyattKtm">Hotel Hyatt Kathmandu</string>
+    <string name="title_mountEverest">Mount Everest</string>
+    <string name="title_makalu">Mount Makalu</string>
+    <string name="title_manaslu">Mount Manaslu</string>
+    <string name="title_dhaulagiri">Mount Dhaulagiri</string>
+    <string name="title_kanchanjunga">Mount Kanchanjunga</string>
+    <string name="title_annapurna">Mount Annapurna</string>
+
+    <!-- Text for descriptions on places -->
+    <string name="desc_kathmandu">Kathmandu Durbar Square is one of three Durbar squares in the Kathmandu valley in Nepal. It is a former royal palace of Nepal.</string>
+    <string name="desc_bhaktapur">Bhaktapur Durbar Square is the plaza in front of the royal palace of the old Bhaktapur Kingdom.</string>
+    <string name="desc_chitawan">Chitawan National Park is a preserved area in the Terai Lowlands of south-central Nepal. It is home to rare mammals like one-horned rhinos and Bengal tigers. </string>
+    <string name="desc_annapurna_s">The Annapurna Sanctuary is a high glacial basin lying 40 km directly north of Pokhara. This oval-shaped plateau sits at an altitude of over 4000 metres, and is surrounded by a ring of mountains, the Annapurna range, most of which are over 7000 metres.</string>
+    <string name="desc_hotelEverest">This is one of the biggest five star hotel in Nepal.</string>
+    <string name="desc_hyattKtm">This hotel is a masterpiece.</string>
+
+    <!-- Text for information on places -->
+    <string name="info_kathmandu">Hours: Open 24 hours</string>
+    <string name="info_bhaktapur">Hours: Open 24 hours</string>
+    <string name="info_chitawan">None</string>
+    <string name="info_annapurna">None</string>
+    <string name="info_hotelEverest">New Baneswor, Kathmandu, Nepal
+Telephone: 977-1-4780100.
+
+</string>
+    <string name="info_hyattKtm">
+Taragaon Boudha, Kathmandu 44601, Nepal
+Telephone:+977 1-5171234
+</string>
+
+
+    <!-- Text for weblinks on main page -->
+    <string name="web_kathmandu">https://en.wikipedia.org/wiki/Kathmandu_Durbar_Square</string>
+    <string name="web_bhaktapur">https://en.wikipedia.org/wiki/Bhaktapur_Durbar_Square</string>
+    <string name="web_chitawan">https://en.wikipedia.org/wiki/Chitwan_National_Park</string>
+    <string name="web_annapurna_s">https://en.wikipedia.org/wiki/Annapurna_Sanctuary</string>
+    <string name="web_hotelEverest">http://www.theeveresthotel.com</string>
+    <string name="web_hyattKtm">https://kathmandu.regency.hyatt.com/en/hotel/home.html</string>
+
+
+
+
+</resources>
